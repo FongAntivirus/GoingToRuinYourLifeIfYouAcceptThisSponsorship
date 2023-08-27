@@ -1,11 +1,8 @@
-html {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-image: url(border.png) 20% round;
-}
-
 body {
   background-image: linear-gradient(to right, rgba(255,0,0,1), rgba(0,180,255,1));
   text-align: center;
   font-family: Verdana;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 20% round;
 }
