@@ -4,5 +4,5 @@ body {
   font-family: Verdana;
   border: 10px solid transparent;
   padding: 15px;
-  border-image: url(border.png)
+  border-image: url(border.png) stretch 30;
 }
